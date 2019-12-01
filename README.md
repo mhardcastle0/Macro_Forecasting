@@ -13,5 +13,6 @@ The project is broken up into sections on data wrangling, data exploration, and 
     <li><b>macro_capstone_data_exploration.ipynb</b> - The data is explored to demonstrate that there are macroeconomic variables that are leading predictors of the credit card default rate, and to explore the path of these variables over time.</li>
     <li><b>macro_capstone_xgboost</b> - Using the XGBoost machine learning package, predictions are made on the path of the credit card default rate and tested against historic values.</li>
     <li><b>macro_capstone_presentation_pdf.pdf</b> - A brief summary of each of the stages is presented in this document.</li>
+    <li><b>final_writeup.pdf</b> - An in-depth description of the steps taken in the notebooks referenced above, as well as interpretation and analysis of the output.</li>
     <li><b>Data</b> - This folder contains the independent and dependent variables in .pkl form, although it is recommended to use the data wrangling notebook referenced in (1) to re-create this data and ensure that the most recent available data is used.</li>
 </ol>
